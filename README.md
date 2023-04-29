@@ -1,8 +1,4 @@
-# **Data Science**
-
-</br>
-
-## **About**
+# **About**
 
 </br>
 
