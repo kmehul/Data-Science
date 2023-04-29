@@ -24,9 +24,9 @@ A compiled report of the above processes performed on the dataset is also includ
 
 The repository also contains a notebook for character recognition performed on the **TMNIST Alphabet (94 characters)** dataset from Kaggle. This operation was performed using a Convolutional Neural Network.
 
-Finally, this repository includes a notebook for a crash course in Statistical Learning, specifically SHAP Analysis. In this notebook, there is a detailed explanation of SHAP and SHAP analysis using the primary dataset, Mobile Price Classification.
+Additionally, this repository includes a notebook for a crash course in Statistical Learning, focusing specifically on SHAP Analysis. In this notebook, there is a detailed explanation of SHAP and SHAP analysis using the primary dataset, Mobile Price Classification.
 
-There is also a notebook for worked examples of SHAP analysis using AutoML, which explains the process of using AutoML to find the best model for a dataset and then performing SHAP analysis on the selected model. In this notebook, apart from the primary dataset, the **Iris Dataset** from UCI is also used, which predicts the class of Iris flowers based on sepal and petal lengths and widths.
+To further demonstrate the application of SHAP analysis, another notebook is provided with worked examples using AutoML. This notebook explains the process of using AutoML to find the best model for a dataset and then performing SHAP analysis on the selected model. Along with the primary dataset, the **Iris Dataset** from UCI is also used in this notebook. The Iris Dataset predicts the class of Iris flowers based on sepal and petal lengths and widths.
 
 </br>
 
